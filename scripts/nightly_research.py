@@ -67,10 +67,13 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--minutes', type=int, default=5, help='run budget in minutes')
     parser.add_argument('--batches', type=int, default=30, help='binance 1000-candle batches')
-    parser.add_argument('--timeframe', type=str, default='1h', choices=['1h','4h','1d'], help='strategy trading timeframe')
+    parser.add_argument('--timeframe', type=str, default='1h', choices=['1h','4h','1D'], help='strategy trading timeframe')
     args = parser.parse_args()
 
-    candles = fetch_binance_1m(limit_batches=args.batches)
+    required_batches = args.batches
+    if args.timeframe == '1D':
+        required_batches = max(required_batches, 120)  # >=120k mins (~83 days)
+    candles = fetch_binance_1m(limit_batches=required_batches)
     tests = []
     # base grid
     for f,s,tp,sl in product([9,12,15],[45,55,75],[0.018,0.025],[0.009,0.012]):
