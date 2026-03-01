@@ -1,0 +1,6788 @@
+{
+  "generated_at_utc": "2026-03-01_0948UTC",
+  "count": 472,
+  "results": [
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 79,
+      "win_rate": 0.3291139240506329,
+      "net_profit_percentage": -0.2003681569018501,
+      "max_drawdown": -0.20116416394196923,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 61,
+      "win_rate": 0.3770491803278688,
+      "net_profit_percentage": -0.19036332652112822,
+      "max_drawdown": -0.2105649488273187,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.2631578947368421,
+      "net_profit_percentage": -0.2658851708787786,
+      "max_drawdown": -0.26588517087881014,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.3111111111111111,
+      "net_profit_percentage": -0.17275975498236879,
+      "max_drawdown": -0.21006449799538807,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 72,
+      "win_rate": 0.3472222222222222,
+      "net_profit_percentage": -0.15293987992173874,
+      "max_drawdown": -0.165280123623901,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 72,
+      "win_rate": 0.375,
+      "net_profit_percentage": -0.13654234862099887,
+      "max_drawdown": -0.16306996574438903,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 53,
+      "win_rate": 0.2641509433962264,
+      "net_profit_percentage": -0.15021337321599962,
+      "max_drawdown": -0.1903690003293823,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 48,
+      "win_rate": 0.2708333333333333,
+      "net_profit_percentage": -0.30672390949253475,
+      "max_drawdown": -0.31444257784607466,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 77,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.2880357510882376,
+      "max_drawdown": -0.2888317581282607,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 65,
+      "win_rate": 0.3230769230769231,
+      "net_profit_percentage": -0.2922009311841566,
+      "max_drawdown": -0.2922009311841167,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.19298245614035087,
+      "net_profit_percentage": -0.29432438105453423,
+      "max_drawdown": -0.29432438105455594,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 43,
+      "win_rate": 0.23255813953488372,
+      "net_profit_percentage": -0.3410579724002797,
+      "max_drawdown": -0.341057972400316,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 77,
+      "win_rate": 0.33766233766233766,
+      "net_profit_percentage": -0.1695280383021302,
+      "max_drawdown": -0.17032404534227386,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 73,
+      "win_rate": 0.3698630136986301,
+      "net_profit_percentage": -0.16416476504805855,
+      "max_drawdown": -0.18437168998295395,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 58,
+      "win_rate": 0.2413793103448276,
+      "net_profit_percentage": -0.34795128895459304,
+      "max_drawdown": -0.3479512889545733,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.26666666666666666,
+      "net_profit_percentage": -0.2781970487814803,
+      "max_drawdown": -0.3154623906135412,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 76,
+      "win_rate": 0.34210526315789475,
+      "net_profit_percentage": -0.14702691416172628,
+      "max_drawdown": -0.1593678415216626,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 61,
+      "win_rate": 0.3770491803278688,
+      "net_profit_percentage": -0.12436906041966744,
+      "max_drawdown": -0.15089991124174196,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.22807017543859648,
+      "net_profit_percentage": -0.20139779228197735,
+      "max_drawdown": -0.213149391555556,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 47,
+      "win_rate": 0.2127659574468085,
+      "net_profit_percentage": -0.4013870158783352,
+      "max_drawdown": -0.40909835502022096,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 75,
+      "win_rate": 0.29333333333333333,
+      "net_profit_percentage": -0.24500997048428827,
+      "max_drawdown": -0.24580597752423827,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 63,
+      "win_rate": 0.31746031746031744,
+      "net_profit_percentage": -0.32285780661959657,
+      "max_drawdown": -0.3236538136595746,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 55,
+      "win_rate": 0.18181818181818182,
+      "net_profit_percentage": -0.2872675524948083,
+      "max_drawdown": -0.28806355953484575,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 43,
+      "win_rate": 0.20930232558139536,
+      "net_profit_percentage": -0.40532483338141695,
+      "max_drawdown": -0.40612084042146446,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 81,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.16361507254211777,
+      "max_drawdown": -0.16441107958221624,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 61,
+      "win_rate": 0.3442622950819672,
+      "net_profit_percentage": -0.23377022062108882,
+      "max_drawdown": -0.2547589032329878,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 62,
+      "win_rate": 0.20967741935483872,
+      "net_profit_percentage": -0.4083010474531113,
+      "max_drawdown": -0.4083010474530635,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.24444444444444444,
+      "net_profit_percentage": -0.3472267344314863,
+      "max_drawdown": -0.38526198992949734,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 74,
+      "win_rate": 0.33783783783783783,
+      "net_profit_percentage": -0.18562827490895778,
+      "max_drawdown": -0.19796473917502722,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 70,
+      "win_rate": 0.35714285714285715,
+      "net_profit_percentage": -0.1998199058723166,
+      "max_drawdown": -0.22712650960585723,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 56,
+      "win_rate": 0.19642857142857142,
+      "net_profit_percentage": -0.2974093471232053,
+      "max_drawdown": -0.3099455540419682,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.2,
+      "net_profit_percentage": -0.41894703503647057,
+      "max_drawdown": -0.42745296001842625,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 75,
+      "win_rate": 0.29333333333333333,
+      "net_profit_percentage": -0.24500997048428827,
+      "max_drawdown": -0.24580597752423827,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 65,
+      "win_rate": 0.3076923076923077,
+      "net_profit_percentage": -0.3692415986119664,
+      "max_drawdown": -0.37003760565197386,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 55,
+      "win_rate": 0.18181818181818182,
+      "net_profit_percentage": -0.2872675524948083,
+      "max_drawdown": -0.28806355953484575,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 43,
+      "win_rate": 0.20930232558139536,
+      "net_profit_percentage": -0.40532483338141695,
+      "max_drawdown": -0.40612084042146446,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 23,
+      "win_rate": 0.4782608695652174,
+      "net_profit_percentage": 0.08769786557159677,
+      "max_drawdown": -0.07064611797052978,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 15,
+      "win_rate": 0.4,
+      "net_profit_percentage": 0.02549604126411898,
+      "max_drawdown": -0.07337914847104221,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 34,
+      "win_rate": 0.47058823529411764,
+      "net_profit_percentage": 0.11033358926059321,
+      "max_drawdown": -0.061290624167786856,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 29,
+      "win_rate": 0.41379310344827586,
+      "net_profit_percentage": 0.043256538028637624,
+      "max_drawdown": -0.09006275756147097,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 25,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 11,
+      "win_rate": 0.36363636363636365,
+      "net_profit_percentage": 0.008691856224076061,
+      "max_drawdown": -0.0589139136804806,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 7,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": 0.014490556476350034,
+      "max_drawdown": -0.027773466281555415,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 13,
+      "win_rate": 0.38461538461538464,
+      "net_profit_percentage": 0.02030916455095614,
+      "max_drawdown": -0.05890707489010216,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 9,
+      "win_rate": 0.4444444444444444,
+      "net_profit_percentage": 0.02610786480323011,
+      "max_drawdown": -0.027773466281555415,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 59,
+      "win_rate": 0.2033898305084746,
+      "net_profit_percentage": -0.1400422501406062,
+      "max_drawdown": -0.16095559785824776,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 19,
+      "win_rate": 0.5263157894736842,
+      "net_profit_percentage": 0.15285055232597475,
+      "max_drawdown": -0.04295775202401986,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 123,
+      "win_rate": 0.4146341463414634,
+      "net_profit_percentage": -0.08748447871991065,
+      "max_drawdown": -0.09906896789561026,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 17,
+      "win_rate": 0.35294117647058826,
+      "net_profit_percentage": -0.005087405575762216,
+      "max_drawdown": -0.05770124860239312,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 83,
+      "win_rate": 0.1927710843373494,
+      "net_profit_percentage": -0.10253387666092771,
+      "max_drawdown": -0.10279921234088718,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 35,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 48,
+      "win_rate": 0.4791666666666667,
+      "net_profit_percentage": -0.001561859614119605,
+      "max_drawdown": -0.14983408690387723,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 44,
+      "win_rate": 0.20454545454545456,
+      "net_profit_percentage": -0.16763118815036998,
+      "max_drawdown": -0.16763118815036337,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 25,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 20,
+      "win_rate": 0.25,
+      "net_profit_percentage": 0.02176633688098551,
+      "max_drawdown": -0.012827498589473851,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 56,
+      "win_rate": 0.19642857142857142,
+      "net_profit_percentage": -0.2569045627851756,
+      "max_drawdown": -0.26918023483376574,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 30,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 19,
+      "win_rate": 0.5263157894736842,
+      "net_profit_percentage": 0.07502002085275213,
+      "max_drawdown": -0.049842500883512386,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 41,
+      "win_rate": 0.21951219512195122,
+      "net_profit_percentage": -0.14707403943815087,
+      "max_drawdown": -0.16728442356185313,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 5,
+      "win_rate": 0.4,
+      "net_profit_percentage": -0.0033625980733879026,
+      "max_drawdown": -0.006206096499861147,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 53,
+      "win_rate": 0.1509433962264151,
+      "net_profit_percentage": -0.3767349397864989,
+      "max_drawdown": -0.37673493978647166,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 18,
+      "win_rate": 0.2777777777777778,
+      "net_profit_percentage": -0.052669102079376244,
+      "max_drawdown": -0.07786113851673271,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 22,
+      "win_rate": 0.18181818181818182,
+      "net_profit_percentage": -0.19727863827502887,
+      "max_drawdown": -0.19727863827502246,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 25,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 19,
+      "win_rate": 0.3157894736842105,
+      "net_profit_percentage": 0.0334964307089234,
+      "max_drawdown": -0.03896177368882814,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 73,
+      "win_rate": 0.4794520547945205,
+      "net_profit_percentage": -0.22762422737292015,
+      "max_drawdown": -0.22762422737294674,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 24,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.11151192890328493,
+      "max_drawdown": -0.06897166299575375,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 67,
+      "win_rate": 0.08955223880597014,
+      "net_profit_percentage": -0.124294331877181,
+      "max_drawdown": -0.12429433187715055,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 8,
+      "win_rate": 0.625,
+      "net_profit_percentage": 0.03940196545278951,
+      "max_drawdown": -0.023671839845151865,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 68,
+      "win_rate": 0.36764705882352944,
+      "net_profit_percentage": -0.3650185895605086,
+      "max_drawdown": -0.36501858956052846,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 19,
+      "win_rate": 0.3684210526315789,
+      "net_profit_percentage": 0.06102702461879304,
+      "max_drawdown": -0.02179931245168687,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 75,
+      "win_rate": 0.29333333333333333,
+      "net_profit_percentage": -0.11530245072044037,
+      "max_drawdown": -0.11556778640049448,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 14,
+      "win_rate": 0.5714285714285714,
+      "net_profit_percentage": 0.10935121786726273,
+      "max_drawdown": -0.042964999197503406,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 38,
+      "win_rate": 0.2631578947368421,
+      "net_profit_percentage": -0.40393332210094934,
+      "max_drawdown": -0.4240917175150627,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 5,
+      "win_rate": 0.4,
+      "net_profit_percentage": 0.01789864530927978,
+      "max_drawdown": -0.02586099516490581,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 10,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 68,
+      "win_rate": 0.2647058823529412,
+      "net_profit_percentage": -0.31345742763525103,
+      "max_drawdown": -0.3142534346751713,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 42,
+      "win_rate": 0.38095238095238093,
+      "net_profit_percentage": 0.026627721614108157,
+      "max_drawdown": -0.02054875830023173,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 45,
+      "win_rate": 0.3111111111111111,
+      "net_profit_percentage": -0.17173449620009124,
+      "max_drawdown": -0.17173449619999337,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 151,
+      "win_rate": 0.3509933774834437,
+      "net_profit_percentage": -0.1421136021734051,
+      "max_drawdown": -0.14290960921349294,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 29,
+      "win_rate": 0.4482758620689655,
+      "net_profit_percentage": 0.026162620896293426,
+      "max_drawdown": -0.009447242619831098,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 103,
+      "win_rate": 0.27184466019417475,
+      "net_profit_percentage": -0.1405691751720601,
+      "max_drawdown": -0.1591445450754403,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 21,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": 0.06486774287294834,
+      "max_drawdown": -0.03040535865754812,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 73,
+      "win_rate": 0.0821917808219178,
+      "net_profit_percentage": -0.14932082770870947,
+      "max_drawdown": -0.1495861633886375,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 51,
+      "win_rate": 0.43137254901960786,
+      "net_profit_percentage": 0.06587736534527901,
+      "max_drawdown": -0.07479296589818496,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 64,
+      "win_rate": 0.28125,
+      "net_profit_percentage": -0.18333772828383585,
+      "max_drawdown": -0.18360306396381088,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 29,
+      "win_rate": 0.27586206896551724,
+      "net_profit_percentage": 0.028026106315148992,
+      "max_drawdown": -0.046524592054575375,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 126,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": -0.1804311002003086,
+      "max_drawdown": -0.21825225005930315,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 20,
+      "win_rate": 0.55,
+      "net_profit_percentage": -0.028429430917457997,
+      "max_drawdown": -0.05629906842995469,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 43,
+      "win_rate": 0.23255813953488372,
+      "net_profit_percentage": -0.39556107806462637,
+      "max_drawdown": -0.39635708510455947,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 43,
+      "win_rate": 0.27906976744186046,
+      "net_profit_percentage": -0.005638857033820202,
+      "max_drawdown": -0.08259576283865533,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 135,
+      "win_rate": 0.3037037037037037,
+      "net_profit_percentage": -0.23616188004482674,
+      "max_drawdown": -0.23695788708506527,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 6,
+      "win_rate": 0.16666666666666666,
+      "net_profit_percentage": -0.005487416392964958,
+      "max_drawdown": -0.0122167145008234,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 71,
+      "win_rate": 0.1267605633802817,
+      "net_profit_percentage": -0.3569047605616745,
+      "max_drawdown": -0.35770076760157643,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 16,
+      "win_rate": 0.3125,
+      "net_profit_percentage": 0.014600650403654098,
+      "max_drawdown": -0.01720086152322553,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.19298245614035087,
+      "net_profit_percentage": -0.3778943668507771,
+      "max_drawdown": -0.37869037389076654,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 5,
+      "win_rate": 0.4,
+      "net_profit_percentage": 0.003793795619999874,
+      "max_drawdown": -0.01724458124146011,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 58,
+      "win_rate": 0.2413793103448276,
+      "net_profit_percentage": -0.34795128895459304,
+      "max_drawdown": -0.3479512889545733,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 17,
+      "win_rate": 0.35294117647058826,
+      "net_profit_percentage": -0.031679634892687936,
+      "max_drawdown": -0.023004387336944543,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 37,
+      "win_rate": 0.2972972972972973,
+      "net_profit_percentage": -0.32727471752204945,
+      "max_drawdown": -0.3272747175220525,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 14,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.058083720749304776,
+      "max_drawdown": -0.08846062002270116,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 10,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 78,
+      "win_rate": 0.28205128205128205,
+      "net_profit_percentage": -0.24483647587316199,
+      "max_drawdown": -0.24563248291316064,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 10,
+      "win_rate": 0.7,
+      "net_profit_percentage": 0.025367410035642874,
+      "max_drawdown": -0.009843652284646787,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 86,
+      "win_rate": 0.5,
+      "net_profit_percentage": -0.18855132723568532,
+      "max_drawdown": -0.2217876752376724,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 13,
+      "win_rate": 0.3076923076923077,
+      "net_profit_percentage": 0.005633605114399425,
+      "max_drawdown": -0.03593460085873357,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 47,
+      "win_rate": 0.2127659574468085,
+      "net_profit_percentage": -0.16824003482844874,
+      "max_drawdown": -0.17210487962029397,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 16,
+      "win_rate": 0.5,
+      "net_profit_percentage": -0.01303816458998236,
+      "max_drawdown": -0.03334467223472526,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 35,
+      "win_rate": 0.22857142857142856,
+      "net_profit_percentage": -0.34199022468395857,
+      "max_drawdown": -0.34199022468391904,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 2,
+      "win_rate": 1.0,
+      "net_profit_percentage": 0.037330722575040026,
+      "max_drawdown": 0.0,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 56,
+      "win_rate": 0.125,
+      "net_profit_percentage": -0.18984063129784268,
+      "max_drawdown": -0.18984063129792172,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 6,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.058733294689671034,
+      "max_drawdown": -0.02101208075306893,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 74,
+      "win_rate": 0.33783783783783783,
+      "net_profit_percentage": -0.18562827490895778,
+      "max_drawdown": -0.19796473917502722,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 29,
+      "win_rate": 0.3793103448275862,
+      "net_profit_percentage": 0.070054119975363,
+      "max_drawdown": -0.10716217465104316,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 34,
+      "win_rate": 0.23529411764705882,
+      "net_profit_percentage": -0.3643414794821575,
+      "max_drawdown": -0.3643414794820887,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 24,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.04080037640306483,
+      "max_drawdown": -0.1464784414828224,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 91,
+      "win_rate": 0.3076923076923077,
+      "net_profit_percentage": -0.34619228633004245,
+      "max_drawdown": -0.3467229576899711,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 12,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.007899422512313105,
+      "max_drawdown": -0.02214522600972879,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 48,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.2750717655490251,
+      "max_drawdown": -0.2750717655491064,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 24,
+      "win_rate": 0.4166666666666667,
+      "net_profit_percentage": 0.01500311675495109,
+      "max_drawdown": -0.05530673939150299,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 86,
+      "win_rate": 0.3023255813953488,
+      "net_profit_percentage": -0.3188361700360212,
+      "max_drawdown": -0.3193668413959405,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 35,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 37,
+      "win_rate": 0.3783783783783784,
+      "net_profit_percentage": -0.04979290793530029,
+      "max_drawdown": -0.11130623056254674,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 47,
+      "win_rate": 0.1276595744680851,
+      "net_profit_percentage": -0.277791897104143,
+      "max_drawdown": -0.27779189710417374,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 11,
+      "win_rate": 0.7272727272727273,
+      "net_profit_percentage": 0.04267664211623357,
+      "max_drawdown": -0.02948997062627301,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 59,
+      "win_rate": 0.2542372881355932,
+      "net_profit_percentage": -0.30244645150379146,
+      "max_drawdown": -0.34366690143448064,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 21,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.03812244848670665,
+      "max_drawdown": -0.05346889417395806,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 31,
+      "win_rate": 0.22580645161290322,
+      "net_profit_percentage": -0.08453449285519778,
+      "max_drawdown": -0.1068127185362977,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 35,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 30,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.0048533583091825835,
+      "max_drawdown": -0.04095998243411891,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 43,
+      "win_rate": 0.32558139534883723,
+      "net_profit_percentage": -0.1695510673522467,
+      "max_drawdown": -0.20274819810774947,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 25,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 5,
+      "win_rate": 0.6,
+      "net_profit_percentage": 0.019995870602215256,
+      "max_drawdown": -0.006894266969126317,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 43,
+      "win_rate": 0.32558139534883723,
+      "net_profit_percentage": -0.3029554955839108,
+      "max_drawdown": -0.3029554955839231,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 8,
+      "win_rate": 0.625,
+      "net_profit_percentage": 0.13202757007602398,
+      "max_drawdown": -0.0078901266714837,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 41,
+      "win_rate": 0.3170731707317073,
+      "net_profit_percentage": -0.09577463017318633,
+      "max_drawdown": -0.10588603705633526,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 25,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 6,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.023648552121499824,
+      "max_drawdown": -0.022233916408898047,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 85,
+      "win_rate": 0.49411764705882355,
+      "net_profit_percentage": -0.1556748223587675,
+      "max_drawdown": -0.18355602516243463,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 30,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -8.395917163443789e-05,
+      "max_drawdown": -0.01933809571571521,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 50,
+      "win_rate": 0.42,
+      "net_profit_percentage": -0.17607276564636817,
+      "max_drawdown": -0.23134190290936552,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 6,
+      "win_rate": 0.8333333333333334,
+      "net_profit_percentage": 0.058223899144711155,
+      "max_drawdown": -0.0021477690181903597,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 36,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.15622244426680246,
+      "max_drawdown": -0.1963237262523454,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 25,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 8,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.051108718636023974,
+      "max_drawdown": -0.032327685435318276,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 85,
+      "win_rate": 0.49411764705882355,
+      "net_profit_percentage": -0.13116607488034143,
+      "max_drawdown": -0.15905412167200872,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 18,
+      "win_rate": 0.5555555555555556,
+      "net_profit_percentage": 0.06558726324391996,
+      "max_drawdown": -0.029340095560503876,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 43,
+      "win_rate": 0.11627906976744186,
+      "net_profit_percentage": -0.28014579173123,
+      "max_drawdown": -0.28014579173122334,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 7,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": 0.04272206578806705,
+      "max_drawdown": -0.027771182666025407,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 41,
+      "win_rate": 0.3170731707317073,
+      "net_profit_percentage": -0.09577463017318633,
+      "max_drawdown": -0.10588603705633526,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 47,
+      "win_rate": 0.2127659574468085,
+      "net_profit_percentage": -0.3364800696568975,
+      "max_drawdown": -0.3441964341646342,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 6,
+      "win_rate": 0.5,
+      "net_profit_percentage": -0.004169917202277207,
+      "max_drawdown": -0.009845855780310497,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.21212121212121213,
+      "net_profit_percentage": -0.2865061167309794,
+      "max_drawdown": -0.2865061167309335,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 17,
+      "win_rate": 0.5882352941176471,
+      "net_profit_percentage": 0.05040133485079792,
+      "max_drawdown": -0.02148317476919903,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.21212121212121213,
+      "net_profit_percentage": -0.4204201254359597,
+      "max_drawdown": -0.42042012543589413,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 6,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.0767425517696304,
+      "max_drawdown": -0.02066822568306259,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 109,
+      "win_rate": 0.3944954128440367,
+      "net_profit_percentage": -0.12962094919468256,
+      "max_drawdown": -0.15277775672758453,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 10,
+      "win_rate": 0.7,
+      "net_profit_percentage": 0.16313481782290445,
+      "max_drawdown": -0.0078901266714837,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 73,
+      "win_rate": 0.3698630136986301,
+      "net_profit_percentage": -0.14725008419651922,
+      "max_drawdown": -0.1674604326885487,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 27,
+      "win_rate": 0.5555555555555556,
+      "net_profit_percentage": 0.016955205639650164,
+      "max_drawdown": -0.02630816164908012,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 28,
+      "win_rate": 0.14285714285714285,
+      "net_profit_percentage": -0.3139236376168806,
+      "max_drawdown": -0.31392363761685305,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 13,
+      "win_rate": 0.38461538461538464,
+      "net_profit_percentage": 0.00041094929511814815,
+      "max_drawdown": -0.02602194255241219,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 90,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.3358909220244204,
+      "max_drawdown": -0.33668692906445585,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 34,
+      "win_rate": 0.5588235294117647,
+      "net_profit_percentage": -0.018115784788177075,
+      "max_drawdown": -0.044827946554903964,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 39,
+      "win_rate": 0.1282051282051282,
+      "net_profit_percentage": -0.3574335920551879,
+      "max_drawdown": -0.35796426341512255,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 19,
+      "win_rate": 0.21052631578947367,
+      "net_profit_percentage": 0.00673895536194553,
+      "max_drawdown": -0.017239059478890706,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 99,
+      "win_rate": 0.1919191919191919,
+      "net_profit_percentage": -0.15165251499990898,
+      "max_drawdown": -0.1519178506798502,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 32,
+      "win_rate": 0.375,
+      "net_profit_percentage": -0.024323695906359247,
+      "max_drawdown": -0.060874342742334164,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 49,
+      "win_rate": 0.3673469387755102,
+      "net_profit_percentage": -0.25498978971262676,
+      "max_drawdown": -0.27663748836719293,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 36,
+      "win_rate": 0.3611111111111111,
+      "net_profit_percentage": 0.023452743265446507,
+      "max_drawdown": -0.05226580948656245,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 70,
+      "win_rate": 0.05714285714285714,
+      "net_profit_percentage": -0.3814758506348188,
+      "max_drawdown": -0.38200652199485985,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 6,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.06816149522190214,
+      "max_drawdown": -0.02335258301778831,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 44,
+      "win_rate": 0.20454545454545456,
+      "net_profit_percentage": -0.40579512991619643,
+      "max_drawdown": -0.405795129916231,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 16,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.07839792427413474,
+      "max_drawdown": -0.04295775202401986,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 14,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 38,
+      "win_rate": 0.15789473684210525,
+      "net_profit_percentage": -0.3459149630530477,
+      "max_drawdown": -0.3459149630529734,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 34,
+      "win_rate": 0.4411764705882353,
+      "net_profit_percentage": 0.02441807506665167,
+      "max_drawdown": -0.025033615024983025,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 29,
+      "win_rate": 0.2413793103448276,
+      "net_profit_percentage": -0.13101614636024028,
+      "max_drawdown": -0.17554194167501702,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 35,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 49,
+      "win_rate": 0.46938775510204084,
+      "net_profit_percentage": -0.020743787532236355,
+      "max_drawdown": -0.0833797924726487,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 36,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.19567097532875657,
+      "max_drawdown": -0.23289350491095817,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 22,
+      "win_rate": 0.6363636363636364,
+      "net_profit_percentage": 0.187122681129168,
+      "max_drawdown": -0.04356409171474285,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 28,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.131159026076585,
+      "max_drawdown": -0.17568475768959813,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 25,
+      "win_rate": 0.44,
+      "net_profit_percentage": -0.04108480214376622,
+      "max_drawdown": -0.08017858367953545,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 52,
+      "win_rate": 0.17307692307692307,
+      "net_profit_percentage": -0.04700662971132069,
+      "max_drawdown": -0.059374698475345156,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 25,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 1,
+      "win_rate": 1.0,
+      "net_profit_percentage": 0.03346810966655969,
+      "max_drawdown": 0.0,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 48,
+      "win_rate": 0.3125,
+      "net_profit_percentage": -0.3853802391204983,
+      "max_drawdown": -0.3853802391204364,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 23,
+      "win_rate": 0.4782608695652174,
+      "net_profit_percentage": 0.07433390101440156,
+      "max_drawdown": -0.05200031917571568,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.15789473684210525,
+      "net_profit_percentage": -0.29273405759894794,
+      "max_drawdown": -0.30795211572191006,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 22,
+      "win_rate": 0.45454545454545453,
+      "net_profit_percentage": 0.06025867426123891,
+      "max_drawdown": -0.0992265004511883,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 48,
+      "win_rate": 0.14583333333333334,
+      "net_profit_percentage": -0.3134783240391769,
+      "max_drawdown": -0.31427433107911185,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 5,
+      "win_rate": 0.6,
+      "net_profit_percentage": 0.04628309875015005,
+      "max_drawdown": -0.011358044795917177,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 84,
+      "win_rate": 0.2261904761904762,
+      "net_profit_percentage": -0.06861661082086891,
+      "max_drawdown": -0.1356274559410675,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 4,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.002269869442417577,
+      "max_drawdown": -0.004410815811839441,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 53,
+      "win_rate": 0.1320754716981132,
+      "net_profit_percentage": -0.15045253893856986,
+      "max_drawdown": -0.17192379259235446,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 28,
+      "win_rate": 0.35714285714285715,
+      "net_profit_percentage": 0.06098744443279841,
+      "max_drawdown": -0.07512148667253582,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 78,
+      "win_rate": 0.48717948717948717,
+      "net_profit_percentage": -0.07510951171073467,
+      "max_drawdown": -0.08627184034697422,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 20,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 14,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.013512717809165166,
+      "max_drawdown": -0.03649601708148875,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 50,
+      "win_rate": 0.16,
+      "net_profit_percentage": -0.21752914316305777,
+      "max_drawdown": -0.23196218740587637,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 77,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.2880357510882376,
+      "max_drawdown": -0.2888317581282607,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 10,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.09042245165663447,
+      "max_drawdown": -0.0006711049335805797,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 38,
+      "win_rate": 0.2631578947368421,
+      "net_profit_percentage": -0.25067718369853104,
+      "max_drawdown": -0.2506771836985444,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 4,
+      "win_rate": 0.75,
+      "net_profit_percentage": 0.030195494560480096,
+      "max_drawdown": -0.013786177722063808,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 47,
+      "win_rate": 0.19148936170212766,
+      "net_profit_percentage": -0.46480151211041815,
+      "max_drawdown": -0.4730385717112484,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 34,
+      "win_rate": 0.38235294117647056,
+      "net_profit_percentage": -0.014656871001289666,
+      "max_drawdown": -0.047791404199493126,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 72,
+      "win_rate": 0.3472222222222222,
+      "net_profit_percentage": -0.10181221662054933,
+      "max_drawdown": -0.11534770099091984,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 25,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 14,
+      "win_rate": 0.21428571428571427,
+      "net_profit_percentage": 0.012157425642757808,
+      "max_drawdown": -0.03146555727773226,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.26666666666666666,
+      "net_profit_percentage": -0.11292847082406055,
+      "max_drawdown": -0.13159550946822973,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 15,
+      "win_rate": 0.6,
+      "net_profit_percentage": 0.001160490592271397,
+      "max_drawdown": -0.024595357578371946,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 80,
+      "win_rate": 0.2,
+      "net_profit_percentage": -0.1271956955141875,
+      "max_drawdown": -0.1275622819616351,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 8,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.022915541875292066,
+      "max_drawdown": -0.011285822631923459,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 78,
+      "win_rate": 0.48717948717948717,
+      "net_profit_percentage": -0.19989434982747792,
+      "max_drawdown": -0.22218863794086774,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 30,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 17,
+      "win_rate": 0.35294117647058826,
+      "net_profit_percentage": 0.04436131425485746,
+      "max_drawdown": -0.03159980812866836,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 105,
+      "win_rate": 0.24761904761904763,
+      "net_profit_percentage": -0.1953361864935993,
+      "max_drawdown": -0.21469722787227363,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 21,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.05673442869102162,
+      "max_drawdown": -0.07786113851673271,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 80,
+      "win_rate": 0.3625,
+      "net_profit_percentage": -0.06137925231520882,
+      "max_drawdown": -0.07514080244204191,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 22,
+      "win_rate": 0.45454545454545453,
+      "net_profit_percentage": 0.07434703947721265,
+      "max_drawdown": -0.1270387823040675,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 76,
+      "win_rate": 0.47368421052631576,
+      "net_profit_percentage": -0.1705955585895729,
+      "max_drawdown": -0.1923924753674644,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 21,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": 0.04757597296064304,
+      "max_drawdown": -0.029101537714326664,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 21,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 50,
+      "win_rate": 0.3,
+      "net_profit_percentage": -0.21500499559574485,
+      "max_drawdown": -0.2481870113234419,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 71,
+      "win_rate": 0.3380281690140845,
+      "net_profit_percentage": -0.08959069985647083,
+      "max_drawdown": -0.09563218068472379,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 34,
+      "win_rate": 0.35294117647058826,
+      "net_profit_percentage": 0.04496250607981183,
+      "max_drawdown": -0.02613383610323705,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 99,
+      "win_rate": 0.1919191919191919,
+      "net_profit_percentage": -0.30330502999981795,
+      "max_drawdown": -0.3038357013597226,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 20,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 7,
+      "win_rate": 0.14285714285714285,
+      "net_profit_percentage": -0.018263610682146644,
+      "max_drawdown": -0.019817416405898403,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 60,
+      "win_rate": 0.16666666666666666,
+      "net_profit_percentage": -0.035215046162292825,
+      "max_drawdown": -0.05784641109531918,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 20,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 0,
+      "win_rate": 0,
+      "net_profit_percentage": 0,
+      "max_drawdown": null,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.21212121212121213,
+      "net_profit_percentage": -0.17702137157222184,
+      "max_drawdown": -0.17702137157217246,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 20,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 10,
+      "win_rate": 0.4,
+      "net_profit_percentage": 0.01070879327184195,
+      "max_drawdown": -0.03825557046155392,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 99,
+      "win_rate": 0.2828282828282828,
+      "net_profit_percentage": -0.09326452374242712,
+      "max_drawdown": -0.18692078425215364,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 24,
+      "win_rate": 0.375,
+      "net_profit_percentage": -0.02110588783503946,
+      "max_drawdown": -0.09862437647816247,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 119,
+      "win_rate": 0.42016806722689076,
+      "net_profit_percentage": -0.15039682849811573,
+      "max_drawdown": -0.18822911877844906,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 29,
+      "win_rate": 0.41379310344827586,
+      "net_profit_percentage": 0.02451573442862975,
+      "max_drawdown": -0.10503786733694342,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 45,
+      "win_rate": 0.2,
+      "net_profit_percentage": -0.41894703503647057,
+      "max_drawdown": -0.42745296001842625,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 86,
+      "win_rate": 0.19767441860465115,
+      "net_profit_percentage": -0.19319281100784502,
+      "max_drawdown": -0.2104469997162406,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 7,
+      "win_rate": 0.5714285714285714,
+      "net_profit_percentage": 0.009147406891094629,
+      "max_drawdown": -0.02798982159750718,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 100,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 41,
+      "win_rate": 0.2682926829268293,
+      "net_profit_percentage": -0.18449913451627403,
+      "max_drawdown": -0.1844991345161917,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 18,
+      "win_rate": 0.2777777777777778,
+      "net_profit_percentage": 0.02520487126875756,
+      "max_drawdown": -0.03896177368882814,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 68,
+      "win_rate": 0.36764705882352944,
+      "net_profit_percentage": -0.3524603444005828,
+      "max_drawdown": -0.35246034440066243,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 25,
+      "win_rate": 0.48,
+      "net_profit_percentage": 0.09155757993840036,
+      "max_drawdown": -0.1063189329799652,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 101,
+      "win_rate": 0.21782178217821782,
+      "net_profit_percentage": -0.1277140238623485,
+      "max_drawdown": -0.12797935954228512,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 19,
+      "win_rate": 0.47368421052631576,
+      "net_profit_percentage": 0.05798389991367295,
+      "max_drawdown": -0.049200664138404626,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 121,
+      "win_rate": 0.2644628099173554,
+      "net_profit_percentage": -0.33958186543727237,
+      "max_drawdown": -0.34037787247741536,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 25,
+      "win_rate": 0.48,
+      "net_profit_percentage": -0.00128592179766138,
+      "max_drawdown": -0.06153063244782597,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 99,
+      "win_rate": 0.20202020202020202,
+      "net_profit_percentage": -0.2666436636111931,
+      "max_drawdown": -0.26717433497096543,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 35,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 31,
+      "win_rate": 0.41935483870967744,
+      "net_profit_percentage": 0.02474394430168415,
+      "max_drawdown": -0.09105860687156353,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 60,
+      "win_rate": 0.16666666666666666,
+      "net_profit_percentage": -0.035215046162292825,
+      "max_drawdown": -0.05784641109531918,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 28,
+      "win_rate": 0.39285714285714285,
+      "net_profit_percentage": -0.031553654342004085,
+      "max_drawdown": -0.049446724285562293,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 45,
+      "win_rate": 0.3111111111111111,
+      "net_profit_percentage": -0.17173449620009124,
+      "max_drawdown": -0.17173449619999337,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 4,
+      "win_rate": 0.5,
+      "net_profit_percentage": -0.005251061498459027,
+      "max_drawdown": -0.016405267876284935,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.21212121212121213,
+      "net_profit_percentage": -0.251145332537017,
+      "max_drawdown": -0.2852071783895682,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 35,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 21,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.018627661154197735,
+      "max_drawdown": -0.02606151860540251,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 63,
+      "win_rate": 0.1111111111111111,
+      "net_profit_percentage": -0.11178850426407831,
+      "max_drawdown": -0.12279475016500063,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "error": "list assignment index out of range. self.index=13, i=-1"
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 126,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": -0.1804311002003086,
+      "max_drawdown": -0.21825225005930315,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 30,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 30,
+      "win_rate": 0.43333333333333335,
+      "net_profit_percentage": 0.0192968310866707,
+      "max_drawdown": -0.01789867524280009,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 10,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 30,
+      "win_rate": 0.26666666666666666,
+      "net_profit_percentage": -0.05142377337001258,
+      "max_drawdown": -0.0714994916545253,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 28,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": -0.034554811212277825,
+      "max_drawdown": -0.138674902914393,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 7,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 80,
+      "win_rate": 0.4625,
+      "net_profit_percentage": -0.11452269754684864,
+      "max_drawdown": -0.14138538852442872,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 5,
+      "win_rate": 0.0,
+      "net_profit_percentage": -0.033256705024490005,
+      "max_drawdown": -0.03325670502452027,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 36,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.19567097532875657,
+      "max_drawdown": -0.23289350491095817,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 2,
+      "win_rate": 0.0,
+      "net_profit_percentage": -0.02266536952752041,
+      "max_drawdown": -0.022665369527519186,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 72,
+      "win_rate": 0.1527777777777778,
+      "net_profit_percentage": -0.13275285477971738,
+      "max_drawdown": -0.13301819045971053,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 25,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 13,
+      "win_rate": 0.3076923076923077,
+      "net_profit_percentage": -0.004873358611271069,
+      "max_drawdown": -0.029600965380260913,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 75,
+      "win_rate": 0.14666666666666667,
+      "net_profit_percentage": -0.21230466585086694,
+      "max_drawdown": -0.21230466585083763,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 15,
+      "win_rate": 0.7333333333333333,
+      "net_profit_percentage": 0.09526246808298496,
+      "max_drawdown": -0.014956460462567378,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 100,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 81,
+      "win_rate": 0.1111111111111111,
+      "net_profit_percentage": -0.184401331403026,
+      "max_drawdown": -0.18466666708294444,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 25,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 4,
+      "win_rate": 0.5,
+      "net_profit_percentage": 0.005682834540672854,
+      "max_drawdown": -0.024405319851195095,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 35,
+      "win_rate": 0.2,
+      "net_profit_percentage": -0.20372692652611676,
+      "max_drawdown": -0.23313241168033683,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 80,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 11,
+      "win_rate": 0.2727272727272727,
+      "net_profit_percentage": -0.006931435228000972,
+      "max_drawdown": -0.03368865049124814,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 75,
+      "win_rate": 0.29333333333333333,
+      "net_profit_percentage": -0.10348419715145209,
+      "max_drawdown": -0.10374953283154298,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 20,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 11,
+      "win_rate": 0.45454545454545453,
+      "net_profit_percentage": 0.01626083778174797,
+      "max_drawdown": -0.0166040973272108,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 68,
+      "win_rate": 0.2647058823529412,
+      "net_profit_percentage": -0.24298858012807784,
+      "max_drawdown": -0.24351925148806686,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 25,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 9,
+      "win_rate": 0.5555555555555556,
+      "net_profit_percentage": 0.027817474825975186,
+      "max_drawdown": -0.010236222064130551,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 64,
+      "win_rate": 0.28125,
+      "net_profit_percentage": -0.18333772828383585,
+      "max_drawdown": -0.18360306396381088,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 25,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 7,
+      "win_rate": 0.42857142857142855,
+      "net_profit_percentage": 0.04272206578806705,
+      "max_drawdown": -0.027771182666025407,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 78,
+      "win_rate": 0.28205128205128205,
+      "net_profit_percentage": -0.09657817022007804,
+      "max_drawdown": -0.09684350590013491,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 20,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 5,
+      "win_rate": 0.0,
+      "net_profit_percentage": -0.033256705024490005,
+      "max_drawdown": -0.03325670502452027,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 50,
+      "win_rate": 0.4,
+      "net_profit_percentage": -0.16099708475479443,
+      "max_drawdown": -0.2328432805965286,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 22,
+      "win_rate": 0.45454545454545453,
+      "net_profit_percentage": -0.039055779152644174,
+      "max_drawdown": -0.08437900887703353,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 57,
+      "win_rate": 0.19298245614035087,
+      "net_profit_percentage": -0.12887439072610696,
+      "max_drawdown": -0.12887439072611917,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 30,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 51,
+      "win_rate": 0.39215686274509803,
+      "net_profit_percentage": 0.14440048045486534,
+      "max_drawdown": -0.1823001415407144,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 10,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 45,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.24242424242424243,
+      "net_profit_percentage": -0.18655167637208397,
+      "max_drawdown": -0.22066593865213147,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 18,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": 0.018718226213796464,
+      "max_drawdown": -0.01090327760816523,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.009
+      },
+      "total_trades": 111,
+      "win_rate": 0.3963963963963964,
+      "net_profit_percentage": -0.08746263093754635,
+      "max_drawdown": -0.0934009798610469,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 32,
+      "win_rate": 0.5625,
+      "net_profit_percentage": 0.0703117448946529,
+      "max_drawdown": -0.028783512763475017,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.006
+      },
+      "total_trades": 55,
+      "win_rate": 0.16363636363636364,
+      "net_profit_percentage": -0.13694332692432454,
+      "max_drawdown": -0.13694332692435474,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 30,
+        "high": 70,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 14,
+      "win_rate": 0.2857142857142857,
+      "net_profit_percentage": 0.010991581610273613,
+      "max_drawdown": -0.03238583053994937,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 60,
+      "win_rate": 0.4166666666666667,
+      "net_profit_percentage": -0.3597380006744984,
+      "max_drawdown": -0.35973800067452544,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 3,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.009651159734746456,
+      "max_drawdown": -0.012658089094186309,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 14,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 66,
+      "win_rate": 0.25757575757575757,
+      "net_profit_percentage": -0.17130827365646675,
+      "max_drawdown": -0.21258294331986116,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 30,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 36,
+      "win_rate": 0.5277777777777778,
+      "net_profit_percentage": -0.07642916516970183,
+      "max_drawdown": -0.11610951397470481,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.009
+      },
+      "total_trades": 55,
+      "win_rate": 0.21818181818181817,
+      "net_profit_percentage": -0.10680105315283106,
+      "max_drawdown": -0.1068010531528607,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 25,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 32,
+      "win_rate": 0.53125,
+      "net_profit_percentage": 0.10419412218291321,
+      "max_drawdown": -0.08975269358598714,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 45,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 83,
+      "win_rate": 0.18072289156626506,
+      "net_profit_percentage": -0.1857849518115839,
+      "max_drawdown": -0.18631562317157346,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 6,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.030826168930375236,
+      "max_drawdown": -0.006893520580997237,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 38,
+      "win_rate": 0.15789473684210525,
+      "net_profit_percentage": -0.3459149630530477,
+      "max_drawdown": -0.3459149630529734,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 30,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 23,
+      "win_rate": 0.391304347826087,
+      "net_profit_percentage": 0.10381940491743262,
+      "max_drawdown": -0.02334658110968446,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 10,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 50,
+      "win_rate": 0.3,
+      "net_profit_percentage": -0.09419571252377387,
+      "max_drawdown": -0.11080956939815145,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 35,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 25,
+      "win_rate": 0.4,
+      "net_profit_percentage": 0.0434639722239671,
+      "max_drawdown": -0.02566258717932035,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 21,
+        "k": 0.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 67,
+      "win_rate": 0.13432835820895522,
+      "net_profit_percentage": -0.2547450806790412,
+      "max_drawdown": -0.25474508067894197,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 35,
+        "high": 75,
+        "risk": 0.02,
+        "tp": 0.024,
+        "sl": 0.014
+      },
+      "total_trades": 34,
+      "win_rate": 0.38235294117647056,
+      "net_profit_percentage": -0.03966937815002577,
+      "max_drawdown": -0.13182444278783123,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 98,
+      "win_rate": 0.1836734693877551,
+      "net_profit_percentage": -0.17127877283273216,
+      "max_drawdown": -0.17154410851266677,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 37,
+      "win_rate": 0.1891891891891892,
+      "net_profit_percentage": -0.06584787841807628,
+      "max_drawdown": -0.09687467182650789,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 10,
+        "k": 1.5,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 75,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 63,
+      "win_rate": 0.31746031746031744,
+      "net_profit_percentage": -0.12597405962515706,
+      "max_drawdown": -0.12623939530513884,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 30,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 13,
+      "win_rate": 0.46153846153846156,
+      "net_profit_percentage": 0.006273658473441633,
+      "max_drawdown": -0.014900994671718237,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 18,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.025,
+        "sl": 0.015
+      },
+      "total_trades": 43,
+      "win_rate": 0.32558139534883723,
+      "net_profit_percentage": -0.1695510673522467,
+      "max_drawdown": -0.20274819810774947,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 80,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 32,
+      "win_rate": 0.28125,
+      "net_profit_percentage": -0.047529901219155256,
+      "max_drawdown": -0.03935156669098161,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 21,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 35,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.012
+      },
+      "total_trades": 47,
+      "win_rate": 0.2765957446808511,
+      "net_profit_percentage": -0.31158162673022183,
+      "max_drawdown": -0.3447315273359286,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 20,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 2,
+      "win_rate": 0.0,
+      "net_profit_percentage": -0.02102433169480924,
+      "max_drawdown": -0.021024331694807774,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 14,
+        "k": 1.8,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 45,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.015
+      },
+      "total_trades": 48,
+      "win_rate": 0.4375,
+      "net_profit_percentage": -0.046279783780290976,
+      "max_drawdown": -0.08183615051688964,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 8,
+        "low": 30,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 57,
+      "win_rate": 0.21052631578947367,
+      "net_profit_percentage": -0.013985738172080051,
+      "max_drawdown": -0.0831099011251446,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 75,
+        "risk": 0.02,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 33,
+      "win_rate": 0.21212121212121213,
+      "net_profit_percentage": -0.2865061167309794,
+      "max_drawdown": -0.2865061167309335,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 9,
+      "win_rate": 0.1111111111111111,
+      "net_profit_percentage": -0.04021215914019588,
+      "max_drawdown": -0.04021215914022935,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 68,
+      "win_rate": 0.2647058823529412,
+      "net_profit_percentage": -0.27871904198527836,
+      "max_drawdown": -0.2795150490252918,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 20,
+        "high": 65,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 16,
+      "win_rate": 0.4375,
+      "net_profit_percentage": 0.012198480998074244,
+      "max_drawdown": -0.054614803443742144,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.025,
+        "sl": 0.006
+      },
+      "total_trades": 81,
+      "win_rate": 0.19753086419753085,
+      "net_profit_percentage": -0.17693296975069336,
+      "max_drawdown": -0.17809537775418383,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 25,
+        "high": 75,
+        "risk": 0.01,
+        "tp": 0.024,
+        "sl": 0.01
+      },
+      "total_trades": 8,
+      "win_rate": 0.375,
+      "net_profit_percentage": 0.013409243675953678,
+      "max_drawdown": -0.011465049526682147,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 7,
+        "k": 1.8,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 68,
+      "win_rate": 0.2647058823529412,
+      "net_profit_percentage": -0.27871904198527836,
+      "max_drawdown": -0.2795150490252918,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.012,
+        "sl": 0.006
+      },
+      "total_trades": 18,
+      "win_rate": 0.3888888888888889,
+      "net_profit_percentage": 0.007385744642164327,
+      "max_drawdown": -0.015748296711637355,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 14,
+        "k": 1.0,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 100,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.015
+      },
+      "total_trades": 60,
+      "win_rate": 0.4166666666666667,
+      "net_profit_percentage": -0.31464939097519695,
+      "max_drawdown": -0.31464939097521905,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 75,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.014
+      },
+      "total_trades": 6,
+      "win_rate": 0.6666666666666666,
+      "net_profit_percentage": 0.037265637778790925,
+      "max_drawdown": -0.02101508763344695,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 14,
+        "k": 1.5,
+        "risk": 0.01
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 21,
+        "slow": 35,
+        "risk": 0.01,
+        "tp": 0.035,
+        "sl": 0.015
+      },
+      "total_trades": 36,
+      "win_rate": 0.25,
+      "net_profit_percentage": -0.07811122213340123,
+      "max_drawdown": -0.09818157996436261,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 14,
+        "low": 35,
+        "high": 70,
+        "risk": 0.015,
+        "tp": 0.024,
+        "sl": 0.006
+      },
+      "total_trades": 41,
+      "win_rate": 0.24390243902439024,
+      "net_profit_percentage": -0.0010844911503600629,
+      "max_drawdown": -0.09037203485928735,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 24,
+        "atrp": 14,
+        "k": 1.2,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 9,
+        "slow": 55,
+        "risk": 0.02,
+        "tp": 0.012,
+        "sl": 0.012
+      },
+      "total_trades": 80,
+      "win_rate": 0.4625,
+      "net_profit_percentage": -0.22740803297019718,
+      "max_drawdown": -0.25424036514122283,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 35,
+        "high": 65,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.006
+      },
+      "total_trades": 68,
+      "win_rate": 0.27941176470588236,
+      "net_profit_percentage": -0.015640674785622446,
+      "max_drawdown": -0.09271643484831671,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 16,
+        "atrp": 7,
+        "k": 0.8,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 15,
+        "slow": 100,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.009
+      },
+      "total_trades": 64,
+      "win_rate": 0.265625,
+      "net_profit_percentage": -0.1957525152389809,
+      "max_drawdown": -0.1962831865989556,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 12,
+        "low": 30,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.014
+      },
+      "total_trades": 19,
+      "win_rate": 0.5263157894736842,
+      "net_profit_percentage": 0.035561445601616164,
+      "max_drawdown": -0.021310807288299483,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 36,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.015
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.009
+      },
+      "total_trades": 44,
+      "win_rate": 0.22727272727272727,
+      "net_profit_percentage": -0.05192797168181749,
+      "max_drawdown": -0.09721246131094707,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 10,
+        "low": 30,
+        "high": 65,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 38,
+      "win_rate": 0.42105263157894735,
+      "net_profit_percentage": 0.02391741968344455,
+      "max_drawdown": -0.03158901092207289,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 48,
+        "atrp": 21,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 7,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.018,
+        "sl": 0.012
+      },
+      "total_trades": 67,
+      "win_rate": 0.3582089552238806,
+      "net_profit_percentage": -0.17864835851268,
+      "max_drawdown": -0.19409191741035503,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 18,
+        "low": 30,
+        "high": 80,
+        "risk": 0.015,
+        "tp": 0.012,
+        "sl": 0.01
+      },
+      "total_trades": 4,
+      "win_rate": 0.75,
+      "net_profit_percentage": 0.030195494560480096,
+      "max_drawdown": -0.013786177722063808,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "BreakoutATR",
+      "hp": {
+        "lookback": 12,
+        "atrp": 10,
+        "k": 1.2,
+        "risk": 0.02
+      },
+      "error": "module 'jesse.indicators' has no attribute 'lowest'"
+    },
+    {
+      "strategy": "EMACross",
+      "hp": {
+        "fast": 12,
+        "slow": 35,
+        "risk": 0.015,
+        "tp": 0.035,
+        "sl": 0.012
+      },
+      "total_trades": 41,
+      "win_rate": 0.24390243902439024,
+      "net_profit_percentage": -0.11135101428289751,
+      "max_drawdown": -0.14860499142126393,
+      "sharpe": null,
+      "calmar": null
+    },
+    {
+      "strategy": "RSIReversion",
+      "hp": {
+        "rsi": 16,
+        "low": 20,
+        "high": 70,
+        "risk": 0.01,
+        "tp": 0.018,
+        "sl": 0.01
+      },
+      "total_trades": 6,
+      "win_rate": 0.3333333333333333,
+      "net_profit_percentage": -0.003654833038064809,
+      "max_drawdown": -0.011466872844589915,
+      "sharpe": null,
+      "calmar": null
+    }
+  ]
+}

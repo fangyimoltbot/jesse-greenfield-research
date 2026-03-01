@@ -1,4 +1,4 @@
-import json, os, math, time
+import json, os, math, time, random, argparse
 from datetime import datetime, timezone
 import requests
 import numpy as np
@@ -64,9 +64,14 @@ def run_one(strategy, hp, candles):
 
 
 def main():
-    candles = fetch_binance_1m()
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--minutes', type=int, default=5, help='run budget in minutes')
+    parser.add_argument('--batches', type=int, default=30, help='binance 1000-candle batches')
+    args = parser.parse_args()
+
+    candles = fetch_binance_1m(limit_batches=args.batches)
     tests = []
-    # compact 1h trial grid for first run
+    # base grid
     for f,s,tp,sl in product([9,12,15],[45,55,75],[0.018,0.025],[0.009,0.012]):
         if f < s:
             tests.append(('EMACross', {'fast':f,'slow':s,'risk':0.02,'tp':tp,'sl':sl}))
@@ -75,8 +80,38 @@ def main():
     for lb,k in product([16,24,36],[1.0,1.2,1.5]):
         tests.append(('BreakoutATR', {'lookback':lb,'atrp':14,'k':k,'risk':0.02}))
 
+    # stochastic extensions for longer runs
+    random.seed(42)
+    for _ in range(600):
+        tests.append(('EMACross', {
+            'fast': random.choice([7,9,12,15,18,21]),
+            'slow': random.choice([35,45,55,75,100]),
+            'risk': random.choice([0.01,0.015,0.02]),
+            'tp': random.choice([0.012,0.018,0.025,0.035]),
+            'sl': random.choice([0.006,0.009,0.012,0.015])
+        }))
+        tests.append(('RSIReversion', {
+            'rsi': random.choice([8,10,12,14,16,18]),
+            'low': random.choice([20,25,30,35]),
+            'high': random.choice([65,70,75,80]),
+            'risk': random.choice([0.01,0.015,0.02]),
+            'tp': random.choice([0.012,0.018,0.024]),
+            'sl': random.choice([0.006,0.01,0.014])
+        }))
+        tests.append(('BreakoutATR', {
+            'lookback': random.choice([12,16,24,36,48]),
+            'atrp': random.choice([7,10,14,21]),
+            'k': random.choice([0.8,1.0,1.2,1.5,1.8]),
+            'risk': random.choice([0.01,0.015,0.02])
+        }))
+
     results = []
+    deadline = time.time() + (args.minutes * 60)
     for i,(name,hp) in enumerate(tests,1):
+        if time.time() > deadline:
+            break
+        if name == 'EMACross' and hp.get('fast', 1) >= hp.get('slow', 2):
+            continue
         try:
             r = run_one(name, hp, candles)
             results.append(r)
@@ -98,6 +133,7 @@ def main():
     md.append('')
     md.append(f"- Universe: BTC-USDT 1m candles (~{len(candles)} rows) from Binance API")
     md.append(f"- Backtests attempted: {len(results)}")
+    md.append(f"- Run budget: {args.minutes} minute(s)")
     md.append(f"- Successful: {len(valids)}")
     md.append('')
     md.append('## Top 10 Strategies by Net Profit %')
