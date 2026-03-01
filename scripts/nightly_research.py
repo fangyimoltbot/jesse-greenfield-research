@@ -36,7 +36,7 @@ def fetch_binance_1m(symbol='BTCUSDT', limit_batches=30):
     return np.array(arr, dtype=np.float64)
 
 
-def run_one(strategy, hp, candles):
+def run_one(strategy, hp, candles, timeframe='1h'):
     config = {
         'starting_balance': 10_000,
         'fee': 0.0004,
@@ -46,7 +46,7 @@ def run_one(strategy, hp, candles):
         'exchange': 'Binance',
         'warm_up_candles': 210,
     }
-    routes = [{'exchange':'Binance','symbol':'BTC-USDT','timeframe':'1h','strategy':strategy}]
+    routes = [{'exchange':'Binance','symbol':'BTC-USDT','timeframe':timeframe,'strategy':strategy}]
     data_routes = []
     candles_dict = {'Binance-BTC-USDT': {'exchange':'Binance','symbol':'BTC-USDT','candles':candles}}
     res = backtest(config, routes, data_routes, candles_dict, hyperparameters=hp, fast_mode=True)
@@ -67,6 +67,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--minutes', type=int, default=5, help='run budget in minutes')
     parser.add_argument('--batches', type=int, default=30, help='binance 1000-candle batches')
+    parser.add_argument('--timeframe', type=str, default='1h', choices=['1h','4h','1d'], help='strategy trading timeframe')
     args = parser.parse_args()
 
     candles = fetch_binance_1m(limit_batches=args.batches)
@@ -113,7 +114,7 @@ def main():
         if name == 'EMACross' and hp.get('fast', 1) >= hp.get('slow', 2):
             continue
         try:
-            r = run_one(name, hp, candles)
+            r = run_one(name, hp, candles, timeframe=args.timeframe)
             results.append(r)
         except Exception as e:
             results.append({'strategy':name,'hp':hp,'error':str(e)})
@@ -132,6 +133,7 @@ def main():
     md.append(f"# Jesse Nightly Research Report ({now})")
     md.append('')
     md.append(f"- Universe: BTC-USDT 1m candles (~{len(candles)} rows) from Binance API")
+    md.append(f"- Strategy timeframe: {args.timeframe}")
     md.append(f"- Backtests attempted: {len(results)}")
     md.append(f"- Run budget: {args.minutes} minute(s)")
     md.append(f"- Successful: {len(valids)}")
